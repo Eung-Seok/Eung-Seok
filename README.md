@@ -24,6 +24,22 @@
 
 ## Featured Projects
 
+### [OpenPlace](https://github.com/Eung-Seok/openplace)
+
+시민이 지역의 공공시설 개선안을 제안하고 참여하는 시민 기반 펀딩 플랫폼입니다.
+
+- **기술:** React, React Router, Bootstrap, Styled Components, GitHub Pages
+- **주요 기능:** 펀딩 프로젝트 탐색·상세 조회, 커뮤니티, 검색, 회원정보 및 결제 UI
+- **핵심 경험:** 컴포넌트 기반 UI 설계와 사용자 흐름 구현
+
+### [undefined](https://github.com/Eung-Seok/undefined)
+
+조직의 프로젝트, 업무, 일정과 게시판을 한곳에서 관리하는 협업 시스템입니다.
+
+- **기술:** Java 11, Spring MVC, MyBatis, Oracle, JSP
+- **주요 기능:** 프로젝트·업무·이슈 관리, 부서 구조, 알림, 게시판, 대시보드
+- **외부 연동:** Google Calendar API를 통한 일정 관리
+
 ### [LocalQuest](https://github.com/Eung-Seok/LocalQuest)
 
 지역 상권과 사용자를 연결하는 위치 기반 퀘스트·리워드 플랫폼입니다.
@@ -41,22 +57,6 @@ HDD/SSD의 SMART 데이터를 이용해 저장장치 고장을 사전에 예측�
 - **성능:** Accuracy 97.22%, Failure Recall 85.40%, F2-score 85.59%, ROC-AUC 96.80%
 - **v1:** Windows 포터블 EXE, 로컬 예측 및 Streamlit 대시보드
 - **v2:** FastAPI · PostgreSQL · Streamlit · Docker Compose · Kubernetes · GitHub Actions
-
-### [undefined](https://github.com/Eung-Seok/undefined)
-
-조직의 프로젝트, 업무, 일정과 게시판을 한곳에서 관리하는 협업 시스템입니다.
-
-- **기술:** Java 11, Spring MVC, MyBatis, Oracle, JSP
-- **주요 기능:** 프로젝트·업무·이슈 관리, 부서 구조, 알림, 게시판, 대시보드
-- **외부 연동:** Google Calendar API를 통한 일정 관리
-
-### [OpenPlace](https://github.com/Eung-Seok/openplace)
-
-시민이 지역의 공공시설 개선안을 제안하고 참여하는 시민 기반 펀딩 플랫폼입니다.
-
-- **기술:** React, React Router, Bootstrap, Styled Components, GitHub Pages
-- **주요 기능:** 펀딩 프로젝트 탐색·상세 조회, 커뮤니티, 검색, 회원정보 및 결제 UI
-- **핵심 경험:** 컴포넌트 기반 UI 설계와 사용자 흐름 구현
 
 ## Research
 
