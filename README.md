@@ -30,7 +30,8 @@
 
 - **기술:** React, React Router, Bootstrap, Styled Components, GitHub Pages
 - **주요 기능:** 펀딩 프로젝트 탐색·상세 조회, 커뮤니티, 검색, 회원정보 및 결제 UI
-- **핵심 경험:** 컴포넌트 기반 UI 설계와 사용자 흐름 구현
+- **담당 작업:** 회원 흐름, 커뮤니티 검색·권한 처리, 펀딩 탐색·상태 갱신, 브랜치 통합·배포
+- **데모:** [GitHub Pages](https://eung-seok.github.io/openplace/)
 
 ### [undefined](https://github.com/Eung-Seok/undefined)
 
@@ -38,6 +39,7 @@
 
 - **기술:** Java 11, Spring MVC, MyBatis, Oracle, JSP
 - **주요 기능:** 프로젝트·업무·이슈 관리, 부서 구조, 알림, 게시판, 대시보드
+- **담당 작업:** 관리자 조직도 화면, 계층형 부서·직원 조회, 인원 집계, 검색·접기·펼치기
 - **외부 연동:** Google Calendar API를 통한 일정 관리
 
 ### [LocalQuest](https://github.com/Eung-Seok/LocalQuest)
@@ -55,7 +57,7 @@ HDD/SSD의 SMART 데이터를 이용해 저장장치 고장을 사전에 예측�
 
 - **모델:** Backblaze 데이터 기반 RandomForest, 임계값 0.36
 - **성능:** Accuracy 97.22%, Failure Recall 85.40%, F2-score 85.59%, ROC-AUC 96.80%
-- **v1:** Windows 포터블 EXE, 로컬 예측 및 Streamlit 대시보드
+- **초기 버전:** Windows 포터블 EXE 기반 로컬 예측 및 Streamlit 대시보드
 - **v2:** FastAPI · PostgreSQL · Streamlit · Docker Compose · Kubernetes · GitHub Actions
 
 ## Research
